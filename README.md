@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/nogibjj/python-data-science-template-v2/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/python-data-science-template-v2/actions/workflows/main.yml)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PChvbeXpD8wQUsnXXy7ozLev1A2b5X0D#scrollTo=J8WA4p-YxahP)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PChvbeXpD8wQUsnXXy7ozLev1A2b5X0D#scrollTo=UP3Okq5Pxag7)
 
 This project demonstrates the use of Google Colab to perform EDA on a public dataset. 
 The EDA is done on the data from the US Post-secondary Education as of the academic year 2017 - 2018. The analysis is in a Q and A format. First we will pose a question; then we will use Python and its Data Processing libraries to create informative Visualizations and relevant Summary Statistics that try to answer our question. Initially we will stick to answering questions about a single variable at a time, followed by two at a time and finally broaden our perspective to consider interaction between three or more variables.
